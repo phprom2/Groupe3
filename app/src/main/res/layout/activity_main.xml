@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="Button" />
+        android:text="Se connecter" />
 
     <Button
         android:id="@+id/btn_inscription"
@@ -19,7 +19,6 @@
         android:layout_height="wrap_content"
         android:layout_alignTop="@id/btn_connexion"
         android:layout_marginTop="-45dp"
-        android:text="Buttonv2" />
-
+        android:text="S'inscrire" />
 
 </RelativeLayout>
